@@ -1,5 +1,5 @@
 import random
-
+ 
 class SlotMachine:
     def __init__(self, rijen, kolommen, symbool_aantal, symbool_waarde, credits):
         self.rijen = rijen

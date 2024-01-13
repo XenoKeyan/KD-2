@@ -4,7 +4,7 @@
 #     aantal_cylinders=4
 #     kleur="zwart"
  #    aantal_wielen=4
-
+ 
 #     def vermogen():
 #         return aantal_cylinders * 576
 
