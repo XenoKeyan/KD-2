@@ -147,7 +147,7 @@ def hoofdprogramma():
             break
 
     print(f"Je hebt nu nog €{speler.bedrag}")
-
+ 
  
 hoofdprogramma()
- 
+  
